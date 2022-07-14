@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Tanishq Gupta",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/109305580?v=4",
+        "email": "2021kucp1100@iiitkota.ac.in",
+        "phone": "+919799998537",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.I have enthusiasm in Competetive Programming and Web Development.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302015",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Tanishq8311",
+                "url": "https://www.github.com/Tanishq8311"
+            },
+            {
+                "network": "Linkedin",
+                "username": "tanishq-gupta-b9695815a",
+                "url": "https://www.linkedin.com/in/tanishq-gupta-b9695815a/"
+            },
+            {
+                "network": "Instagram",
+                "username": "t.a.n.i.s.h.q",
+                "url": "https://instagram.com/t.a.n.i.s.h.q"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "Express",
+                "Next",
+                "PHP",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "Java",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Basketball",
+                "Badminton"
+            ]
+        }
+    ]
+}
